@@ -1,4 +1,4 @@
-# Whale36u　ビルドガイド
+oi# Whale36u　ビルドガイド
 
 ## 同梱品まとめ
 |パーツ名|個数|素材など|
@@ -15,17 +15,23 @@
 |ゴム足|?個||
 
 - PCB基板
-<img src="images/pcb.jpg" width="80%" />
+<img src="images/PXL_20251222_074007279.jpg" width="80%" />
 
 - スイッチプレート
-<img src="images/switchpl.jpg" width="80%" />
+<img src="images/PXL_20251222_074046278.jpg" width="80%" />
 
 - ボトムプレート
-<img src="images/bottompl.jpg" width="80%" />
+<img src="images/PXL_20251222_074205728.jpg" width="80%" />
 
 - アクリルプレート・トップ
+<img src="images/PXL_20251222_074104322.jpg" width="80%" />
+
 - アクリルプレート・ミドルA
+<img src="images/PXL_20251222_074144539.jpg" width="80%" />
+
 - アクリルプレート・ミドルB
+<img src="images/PXL_20251222_074121320.jpg" width="80%" />
+
 - RP2040-Core-A
 
 <img src="images/corea.jpg" width="80%" />
