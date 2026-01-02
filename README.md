@@ -1,4 +1,4 @@
-## 自設計キーボード「Whale36」
+## 自設計キーボード「Whale36u」
 
 <img src="images/PXL_20260101_023301053.jpg" width="80%" />
 
