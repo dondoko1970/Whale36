@@ -2,11 +2,11 @@
 
 Whale36uのファームウェアを以下のリンクからダウンロードできます。
 
-### 通常版
+### 1.通常版
 
 [whale36u_vial-qwerty-no-indicator.uf2](../../../raw/refs/heads/main/firmware/whale36u_vial-qwerty-no-indicator.uf2) (2026/1/1作成)
 
-### レイヤー・インジケータ版
+### 2.レイヤー・インジケータ版
 
 [whale36u_vial-qwerty-layer-indicator.uf2](../../../raw/refs/heads/main/firmware/whale36u_vial-qwerty-layer-indicator.uf2) (2026/1/1作成)
 
